@@ -1,11 +1,24 @@
 import React from 'react';
 import './Cart.css'
 
-const Cart = () => {
+const Cart = ({ cart }) => {
+    let salary = 0;
+    for (const player of cart) {
+        salary = salary + player.salary;
+    }
+
     return (
         <div className='cart-container'>
-            <h2>star rate</h2>
-            <h3>Hello from cart</h3>
+            <h2>Star Rate</h2>
+            <p>Selected Player: {cart.length}</p>
+            <ol>
+                {
+                    cart.map(player => (
+                        <li key={player.id}>{player.name} - Salary: ${player.salary}</li>
+                    ))
+                }
+            </ol>
+            <p>Total Salary: ${salary}</p>
         </div>
     );
 };
