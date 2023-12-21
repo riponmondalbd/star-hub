@@ -1,0 +1,21 @@
+.header-container {
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-container img {
+    margin-left: 112px;
+}
+
+.header-nav {
+    margin-right: 100px;
+}
+
+.header-nav a {
+    margin-left: 32px;
+    text-decoration: none;
+    color: white;
+}
