@@ -1,0 +1,28 @@
+.single-player {
+    width: 300px;
+    height: 420px;
+    border-radius: 8px;
+    border: 1px solid #95A0A7;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.single-player img {
+    width: 286px;
+    margin: 7px;
+    border-radius: 8px;
+}
+
+.player-details {
+    margin-left: 14px;
+}
+
+.btn-to-list {
+    border-radius: 0px 0px 8px 8px;
+    border: 1px solid #95A0A7;
+    background-color: #083870;
+    color: white;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

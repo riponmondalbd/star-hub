@@ -1,0 +1,83 @@
+[
+  {
+    "id": "6583cdb432b9db0b22a4ce07",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=1200&height=750",
+    "salary": 9144,
+    "eyeColor": "green",
+    "name": "João Cancelo",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb40970622f0ad418fb",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/993af0d7-2b2c-40d1-9e9b-c24f8d165537/mini_28-BALDE.jpg?width=1200&height=750",
+    "salary": 2331,
+    "eyeColor": "brown",
+    "name": "Alejandro Balde",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb4babc25e22b61683e",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/93330ade-5bdf-420a-a989-2c337f8104ca/04-RONALD_ARAUJO_.jpg?width=1200&height=750",
+    "salary": 3817,
+    "eyeColor": "blue",
+    "name": "Ronald Araujo",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb412f85c878e025a1e",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8e1f4a73-cca2-48d8-8e43-655334f27886/jugador_fitxa_inigo_2023.jpg?width=1200&height=750",
+    "salary": 1470,
+    "eyeColor": "blue",
+    "name": "Íñigo Martínez",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb4fdda3c1ebf456af0",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/3acd07d7-8081-4050-a62c-1c1302038c23/15-ANDREAS_CHRISTENSEN.jpg?width=1200&height=750",
+    "salary": 7835,
+    "eyeColor": "brown",
+    "name": "Andreas Christensen",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb4546e1363730a0224",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/383058f5-1126-48c4-8efd-9c3687de8524/17-MARCOS_ALONSO.jpg?width=1200&height=750",
+    "salary": 3416,
+    "eyeColor": "brown",
+    "name": "Marcos Alonso",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb46e5a1381695e8346",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/66fdb7c1-455d-45bb-a132-060fca97925e/23-JULES_KOUNDE.jpg?width=1200&height=750",
+    "salary": 3080,
+    "eyeColor": "brown",
+    "name": "Jules Kounde",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb4b2a24f6ad51c0dbe",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=1200&height=750",
+    "salary": 4785,
+    "eyeColor": "green",
+    "name": "Pedri",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  },
+  {
+    "id": "6583cdb4dc9a5ccd5b1fe61f",
+    "picture": "https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=1200&height=750",
+    "salary": 6441,
+    "eyeColor": "green",
+    "name": "Frenkie de Jong",
+    "gender": "male",
+    "company": "Fc Barcelona"
+  }
+]
