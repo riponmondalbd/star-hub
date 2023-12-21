@@ -9,3 +9,8 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
+
+.player-rate {
+    background-color: #083870;
+    color: white;
+}

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Shop.css'
 import Player from '../Player/Player';
+import Cart from '../Cart/Cart';
 
 const Shop = () => {
     const [players, setPlayers] = useState([]);
@@ -23,7 +24,7 @@ const Shop = () => {
                 }
             </div>
             <div className="player-rate">
-                <h2>star rate</h2>
+                <Cart></Cart>
             </div>
         </div>
     );
